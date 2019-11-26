@@ -1,0 +1,9 @@
+#!/usr/bin/env python
+
+# Licensed under the GPLv3: https://www.gnu.org/licenses/gpl.html
+
+if __name__ == "__main__":
+    import sys
+    from tcms_cucumber_plugin import main
+
+    main(sys.argv)
